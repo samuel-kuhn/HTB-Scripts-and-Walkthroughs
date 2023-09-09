@@ -1,7 +1,5 @@
 # HTB-Scripts
-Scripts that hack parts of or entire HTB Machines.
+Scripts to Hack HTB Machines
+----------------------------
 
-These are scripts that I wrote after hacking a HTB machine.
-They give you a reverse shell or a flag of a machine without the user having to enter the commands manually.
-
-I wrote them mainly for myself to get a better understanding of the machines and python/bash scripts.
+This repository contains scripts I've created for hacking HTB (Hack The Box) machines. They automate tasks like obtaining a reverse shell or retrieving flags, saving you from typing commands manually. I made these scripts mainly for my own learning, to better understand HTB machines and practice Python and Bash scripting.
